@@ -2,7 +2,7 @@
 Frogger Arcade Game
 
 
-##objective to Play: The goal of the game is to help our character to reach the water and get higher score and level as you can each time. Use up, down, left, right arrows to control the character's movement, avoid enemies and collect gems and hearts along the way. The higher the level you reach, the harder the game gets as enemies moving faster and faster. If all of your lives are used up, then the game is over. While game over window is shown, press space bar to restart the game.
+##Objective: The goal is to help our character to reach the water and get higher score and level as you can each time. Use up, down, left, right arrows to control the character's movement, avoid enemies and collect gems and hearts along the way. The higher the level you reach, the harder the game gets as enemies moving faster and faster. If all of your lives are used up, then the game is over. While game over window is shown, press space bar to restart the game.
 
 ##Using Control Pad:
 
