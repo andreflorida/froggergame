@@ -24,7 +24,7 @@ Reach goal: --1000 points;
 
 You can download or clone from this repository.
 
-https://github.com/udacity/frontend-nanodegree-arcade-game 
+https://github.com/andreflorida/froggergame
 
 Find the file: "index.html" and open the file in a browser.
 
