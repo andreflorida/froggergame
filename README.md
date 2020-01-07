@@ -19,3 +19,12 @@ Blue gem: --100 points;
 Green gem: --200 points;
 Red gem: --500 points;
 Reach goal: --1000 points;
+
+##How to access the Game:
+
+You can download or clone from this repository.
+
+https://github.com/udacity/frontend-nanodegree-arcade-game 
+
+Find the file: "index.html" and open the file in a browser.
+
